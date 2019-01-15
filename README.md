@@ -1,2 +1,1 @@
-# MachineLearning-Notebook
-:tada: 存放python机器学习过程中写的代码
+## 🍉机器学习实战[🔗](https://github.com/mathors/MachineLearning-Notebook)
